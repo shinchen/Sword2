@@ -1,4 +1,4 @@
-add from local
+a/d from LOCAL
 
 git reset --hard head^
 git reset head file.md
