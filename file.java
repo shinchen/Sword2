@@ -1,2 +1,3 @@
-bb
-22
+public static void Main() 
+{
+}
